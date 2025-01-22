@@ -11,6 +11,11 @@
 5. The game ends when a player has no legal move.
 
 Oficial Rules and game webpage can be seen here [Sight](https://kanare-abstract.com/en/pages/sight)
+
+## Game States
+[Initial_State](images/initialstate.png)
+[Initial_State](images/midstate.png)
+
 ## Installation and Execution
 This implementation is compatible with SICStus Prolog version 4.9 and works on both Linux and Windows. Follow these steps to set up and run the game:
 
